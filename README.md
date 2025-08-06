@@ -134,4 +134,4 @@ Monitoring: Log all moves and errors for audit and support.
 Data Retention: Configure Blob lifecycle management for further cost savings (cold/archive tier).
 
 Attached the ChatGPT conversation: 
-[a link](https://github.com/kpshayan/Solution/blob/2b24058765897a8c7e05f96e5acff01b1229bba0/I%20have%20a%20scenario%20where%20my%20cosmos%20db%20has%202%20million.pdfS)
+[a link](https://github.com/kpshayan/Solution/blob/9a1217165ba8a347e322e663d80ebe9cd45674d7/I%20have%20a%20scenario%20where%20my%20cosmos%20db%20has%202%20million.pdf)
